@@ -17,8 +17,8 @@ pip3 --version
 
 
 (Ensure Python ≥ 3.10)
-
-#✅ **2. Create Virtual Environment**
+# Create Virtual Environment
+✅ 2. Create Virtual Environment
 
 python3 -m venv ai-env
 source ai-env/bin/activate
