@@ -7,8 +7,8 @@ Open terminal and run:
 sudo apt update && sudo apt upgrade -y
 
 ✅ 2. Install Python 3 and venv
-sudo apt install python3 python3-venv python3-pip -y
 
+sudo apt install python3 python3-venv python3-pip -y
 
 Check version:
 
