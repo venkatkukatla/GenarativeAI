@@ -1,6 +1,6 @@
 # Setup LLM in Local 
 
-✅ **1. Update System & Install Python**
+✅ **1. Update System**
 
 Open terminal and run:
 
