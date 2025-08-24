@@ -1,23 +1,23 @@
 # Setup LLM in Local 
 
-✅ 1. Update System & Install Python
+✅ **1. Update System & Install Python**
 
 Open terminal and run:
 
 sudo apt update && sudo apt upgrade -y
 
-✅ 2. Install Python 3 and venv
+✅ **2. Install Python 3 and venv**
 
 sudo apt install python3 python3-venv python3-pip -y
 
-Check version:
+**Check version:**
 
 python3 --version
 pip3 --version
 
 (Ensure Python ≥ 3.10)
 
-✅ 3. Create Virtual Environment
+✅ **3. Create Virtual Environment**
 
 python3 -m venv ai-env
 source ai-env/bin/activate
@@ -61,7 +61,7 @@ First run will download the model (~4GB), then answer offline.
 
 ✅ **7. Try DevOps Prompts**
 
-Examples:
+**Examples:**
 
 Generate Kubernetes Deployment YAML for Nginx
 
