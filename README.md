@@ -1,0 +1,2 @@
+# GenarativeAI
+Run LLM Local
