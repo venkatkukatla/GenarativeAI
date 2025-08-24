@@ -18,7 +18,7 @@ pip3 --version
 
 (Ensure Python ≥ 3.10)
 
-✅ 2. Create Virtual Environment
+✅ **2. Create Virtual Environment**
 
 python3 -m venv ai-env
 source ai-env/bin/activate
@@ -26,7 +26,7 @@ source ai-env/bin/activate
 
 You should see (ai-env) in your terminal.
 
-✅ 3. Install GPT4All
+✅ **3. Install GPT4All**
 pip install --upgrade pip
 pip install gpt4all
 
@@ -35,7 +35,7 @@ Optional (for better performance):
 
 pip install torch (Its take time to install)
 
-✅ 4. Write Python Code
+✅ **4. Write Python Code**
 
 Create local_ai.py:
 
@@ -52,14 +52,14 @@ with model.chat_session():
         print("\nAI Response:\n", response)
 
 
-✅ 5. Run the Script
+✅ **5. Run the Script**
 
 python local_ai.py
 
 
 First run will download the model (~4GB), then answer offline.
 
-✅ 6. Try DevOps Prompts
+✅ **6. Try DevOps Prompts**
 
 Examples:
 
