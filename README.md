@@ -15,7 +15,6 @@ Check version:
 python3 --version
 pip3 --version
 
-
 (Ensure Python ≥ 3.10)
 # Create Virtual Environment
 ✅ 2. Create Virtual Environment
