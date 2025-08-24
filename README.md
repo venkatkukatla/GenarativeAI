@@ -1,4 +1,4 @@
-**Setup LLM in Local***
+#**Setup LLM in Local***
 
 ✅ 1. Update System & Install Python
 
@@ -18,7 +18,7 @@ pip3 --version
 
 (Ensure Python ≥ 3.10)
 
-✅ **2. Create Virtual Environment**
+#✅ **2. Create Virtual Environment**
 
 python3 -m venv ai-env
 source ai-env/bin/activate
