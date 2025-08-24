@@ -8,11 +8,14 @@ sudo apt update && sudo apt upgrade -y
 
 ✅ **2. Install Python 3 and venv**
 
-sudo apt install python3 python3-venv python3-pip -y
+sudo apt install python3 
+
+python3-venv python3-pip -y
 
 **Check version:**
 
 python3 --version
+
 pip3 --version
 
 (Ensure Python ≥ 3.10)
@@ -20,6 +23,7 @@ pip3 --version
 ✅ **3. Create Virtual Environment**
 
 python3 -m venv ai-env
+
 source ai-env/bin/activate
 
 
