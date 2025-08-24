@@ -26,6 +26,7 @@ source ai-env/bin/activate
 You should see (ai-env) in your terminal.
 
 ✅ **4. Install GPT4All**
+
 pip install --upgrade pip
 pip install gpt4all
 
