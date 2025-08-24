@@ -61,9 +61,9 @@ First run will download the model (~4GB), then answer offline.
 
 Examples:
 
-Write a Jenkins pipeline for building a Java app 
-
 Generate Kubernetes Deployment YAML for Nginx
+
+Write a Jenkins pipeline for building a Java app 
 
 Create Terraform code for an AWS EC2 instance 
 
