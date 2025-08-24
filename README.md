@@ -1,5 +1,3 @@
-# GenarativeAI
-Run LLM Local
 ✅ 1. Update System & Install Python
 
 Open terminal and run:
@@ -19,6 +17,7 @@ pip3 --version
 (Ensure Python ≥ 3.10)
 
 ✅ 2. Create Virtual Environment
+
 python3 -m venv ai-env
 source ai-env/bin/activate
 
@@ -32,7 +31,7 @@ pip install gpt4all
 
 Optional (for better performance):
 
-pip install torch
+pip install torch (Its take time to install)
 
 ✅ 4. Write Python Code
 
@@ -52,6 +51,7 @@ with model.chat_session():
 
 
 ✅ 5. Run the Script
+
 python local_ai.py
 
 
@@ -63,8 +63,8 @@ Examples:
 
 Generate Kubernetes Deployment YAML for Nginx
 
-Write a Jenkins pipeline for building a Java app 
+Write a Jenkins pipeline for building a Java app
 
-Create Terraform code for an AWS EC2 instance 
+Create Terraform code for an AWS EC2 instance
 
 Write an Ansible playbook to install Docker
