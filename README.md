@@ -54,7 +54,7 @@ with model.chat_session():
 
 ✅ **6. Run the Script**
 
-python local_ai.py
+python3 local_ai.py
 
 
 First run will download the model (~4GB), then answer offline.
